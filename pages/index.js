@@ -94,6 +94,7 @@ export default function Home() {
       <Head>
         <title>Clever Pilot</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="viewport" content="width=1024"></meta>
       </Head>
 
       <h1 className="font-bold text-4xl">Clever Pilot</h1>

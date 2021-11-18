@@ -249,7 +249,7 @@ export default function Home() {
           onClick={resetButton}
           className="bg-gray-100 p-4 rounded-md mt-8 text-black-300 m-5 text-xl"
         >
-          Reset
+          Try again
         </button>
       </div>
 

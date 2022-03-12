@@ -3,7 +3,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "cypress": "cypress open"
   },
   "dependencies": {
     "next": "latest",
@@ -13,7 +14,9 @@
     "react-hot-toast": "^2.1.1"
   },
   "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.1.0",
     "autoprefixer": "^10.2.6",
+    "cypress": "^9.5.1",
     "postcss": "^8.3.5",
     "tailwindcss": "^2.2.4"
   }
